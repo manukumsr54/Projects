@@ -39,21 +39,7 @@ Decision-Making-Website/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/decision-making-website.git
-```
-
-### 2. Open the Project
-
-Navigate to the project folder:
-
-```bash
-cd decision-making-website
-```
-
-### 3. Run the Website
+Run the Website
 
 Open `index.html` in any modern web browser.
 
@@ -114,9 +100,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+** MANU KUMAR **
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/manukumsr54
 
 ---
 
