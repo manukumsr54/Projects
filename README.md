@@ -68,7 +68,7 @@ No installation or additional dependencies are required.
 
 ---
 
-## 🔮 Future Enhancements
+## 🔮 Future Enhancements-
 
 - Weighted decision system
 - Decision history
@@ -80,7 +80,7 @@ No installation or additional dependencies are required.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing-
 
 Contributions are welcome!
 
@@ -92,13 +92,13 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+## 📄 License-
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author-
 
 ** MANU KUMAR **
 
@@ -106,6 +106,6 @@ GitHub: https://github.com/manukumsr54
 
 ---
 
-## ⭐ Support
+## ⭐ Support-
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
